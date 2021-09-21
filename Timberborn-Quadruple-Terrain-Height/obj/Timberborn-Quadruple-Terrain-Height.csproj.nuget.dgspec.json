@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felix\\source\\repos\\Timberborn-Double-Terrain-Height\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height.csproj": {}
+    "C:\\Users\\Felix\\Documents\\git\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felix\\source\\repos\\Timberborn-Double-Terrain-Height\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height.csproj": {
+    "C:\\Users\\Felix\\Documents\\git\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felix\\source\\repos\\Timberborn-Double-Terrain-Height\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height.csproj",
+        "projectUniqueName": "C:\\Users\\Felix\\Documents\\git\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height.csproj",
         "projectName": "Timberborn-Quadruple-Terrain-Height",
-        "projectPath": "C:\\Users\\Felix\\source\\repos\\Timberborn-Double-Terrain-Height\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height.csproj",
+        "projectPath": "C:\\Users\\Felix\\Documents\\git\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height.csproj",
         "packagesPath": "C:\\Users\\Felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felix\\source\\repos\\Timberborn-Double-Terrain-Height\\Timberborn-Quadruple-Terrain-Height\\obj\\",
+        "outputPath": "C:\\Users\\Felix\\Documents\\git\\Timberborn-Quadruple-Terrain-Height\\Timberborn-Quadruple-Terrain-Height\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
