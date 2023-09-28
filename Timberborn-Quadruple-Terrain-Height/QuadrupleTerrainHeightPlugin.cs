@@ -7,7 +7,7 @@ using System;
 
 namespace TimberbornQuadrupleTerrainHeight
 {
-    [BepInPlugin("org.bepinex.plugins.quadrupleterrainheight", "Quadruple Terrainheight", "1.2.0")]
+    [BepInPlugin("org.bepinex.plugins.quadrupleterrainheight", "Quadruple Terrainheight", "1.3.0")]
     public class QuadrupleTerrainHeightPlugin : BaseUnityPlugin
     {
         public void Awake()
