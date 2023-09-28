@@ -24,6 +24,9 @@
     <Reference Include="Timberborn.MapEditor">
       <HintPath>..\Libs\Timberborn.MapEditor.dll</HintPath>
     </Reference>
+    <Reference Include="Timberborn.MapEditorBrushesUI">
+      <HintPath>..\Libs\Timberborn.MapEditorBrushesUI.dll</HintPath>
+    </Reference>
     <Reference Include="Timberborn.MapSystemUI">
       <HintPath>..\..\Timberborn-Import-Heightmap\Libs\Timberborn.MapSystemUI.dll</HintPath>
     </Reference>

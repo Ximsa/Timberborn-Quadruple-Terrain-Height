@@ -24,7 +24,7 @@ namespace TimberbornQuadrupleTerrainHeight
             maxMapSize.SetValue(null, (int)maxMapSize.GetValue(null) * factor);
             // brush size
             var brushSize = Type
-                .GetType("Timberborn.MapEditor.BrushSizePanel, Timberborn.MapEditor, Version = 0.0.0.0, Culture = neutral, PublicKeyToken = null")
+                .GetType("Timberborn.BrushesUI.BrushSizePanel, Timberborn.BrushesUI, Version = 0.0.0.0, Culture = neutral, PublicKeyToken = null")
                 .GetField("MaxBrushSize", BindingFlags.Static | BindingFlags.NonPublic);
             brushSize.SetValue(null, (int)brushSize.GetValue(null) * factor);
         }
