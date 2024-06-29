@@ -6,35 +6,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="0Harmony">
-      <HintPath>..\Libs\0Harmony.dll</HintPath>
+    <Reference Include="Timberborn.MapRepositorySystem">
+      <HintPath>G:\GOG Games\Timberborn\Timberborn_Data\Managed\Timberborn.MapRepositorySystem.dll</HintPath>
     </Reference>
-    <Reference Include="BepInEx">
-      <HintPath>..\Libs\BepInEx.dll</HintPath>
+    <Reference Include="Timberborn.MapRepositorySystemUI">
+      <HintPath>G:\GOG Games\Timberborn\Timberborn_Data\Managed\Timberborn.MapRepositorySystemUI.dll</HintPath>
     </Reference>
-    <Reference Include="BepInEx.Harmony">
-      <HintPath>..\Libs\BepInEx.Harmony.dll</HintPath>
+    <Reference Include="Timberborn.MapStateSystem">
+      <HintPath>G:\GOG Games\Timberborn\Timberborn_Data\Managed\Timberborn.MapStateSystem.dll</HintPath>
     </Reference>
-    <Reference Include="Mono.Cecil">
-      <HintPath>..\Libs\Mono.Cecil.dll</HintPath>
-    </Reference>
-    <Reference Include="Timberborn.Core">
-      <HintPath>..\Libs\Timberborn.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Timberborn.MapEditor">
-      <HintPath>..\Libs\Timberborn.MapEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="Timberborn.MapEditorBrushesUI">
-      <HintPath>..\Libs\Timberborn.MapEditorBrushesUI.dll</HintPath>
-    </Reference>
-    <Reference Include="Timberborn.MapSystemUI">
-      <HintPath>..\..\Timberborn-Import-Heightmap\Libs\Timberborn.MapSystemUI.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine">
-      <HintPath>..\Libs\UnityEngine.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.CoreModule">
-      <HintPath>..\Libs\UnityEngine.CoreModule.dll</HintPath>
+    <Reference Include="Timberborn.ModManagerScene">
+      <HintPath>G:\GOG Games\Timberborn\Timberborn_Data\Managed\Timberborn.ModManagerScene.dll</HintPath>
     </Reference>
   </ItemGroup>
 

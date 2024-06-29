@@ -1,16 +1,16 @@
-using BepInEx;
+
 using System.Reflection;
-using Timberborn.Core;
-using Timberborn.MapSystemUI;
-using Timberborn.MapEditor;
 using System;
+
+using Timberborn.ModManagerScene;
+using Timberborn.MapStateSystem;
+using Timberborn.MapRepositorySystemUI;
 
 namespace TimberbornQuadrupleTerrainHeight
 {
-    [BepInPlugin("org.bepinex.plugins.quadrupleterrainheight", "Quadruple Terrainheight", "1.3.0")]
-    public class QuadrupleTerrainHeightPlugin : BaseUnityPlugin
+    public class QuadrupleTerrainHeightPlugin : IModStarter
     {
-        public void Awake()
+        public void StartMod()
         {
             var factor = 4;
             // terrain height
