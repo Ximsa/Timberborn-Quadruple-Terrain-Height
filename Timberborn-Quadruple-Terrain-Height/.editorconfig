@@ -1,4 +1,0 @@
-﻿[*.cs]
-
-# CS0618: Typ oder Element ist veraltet
-dotnet_diagnostic.CS0618.severity = none

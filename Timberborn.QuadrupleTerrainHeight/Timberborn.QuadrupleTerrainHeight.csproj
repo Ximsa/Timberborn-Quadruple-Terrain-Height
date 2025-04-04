@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>Timberborn.QuadrupleTerrainHeight</RootNamespace>
+    <LangVersion>default</LangVersion>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Timberborn.MapRepositorySystem">
+      <HintPath>G:\GOG Games\Timberborn\Timberborn_Data\Managed\Timberborn.MapRepositorySystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Timberborn.MapRepositorySystemUI">
+      <HintPath>G:\GOG Games\Timberborn\Timberborn_Data\Managed\Timberborn.MapRepositorySystemUI.dll</HintPath>
+    </Reference>
+    <Reference Include="Timberborn.MapStateSystem">
+      <HintPath>G:\GOG Games\Timberborn\Timberborn_Data\Managed\Timberborn.MapStateSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Timberborn.ModManagerScene">
+      <HintPath>G:\GOG Games\Timberborn\Timberborn_Data\Managed\Timberborn.ModManagerScene.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
