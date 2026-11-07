@@ -1,9 +1,9 @@
 {
-  "Name": "Quadruple Terrain bounds",
-  "Version": "2.0",
+  "Name": "Quadruple Terrain Bounds",
+  "Version": "3.0",
   "Id": "QuadrupleTerrainBounds",
-  "MinimumGameVersion": "1.0.0.0",
-  "Description": "Quadruples The maximum map boundaris, also quadruples brushsize",
+  "MinimumGameVersion": "1.1.0.0",
+  "Description": "Quadruples The maximum map boundaries, also quadruples the brush size",
   "RequiredMods": [
   ]
 }
