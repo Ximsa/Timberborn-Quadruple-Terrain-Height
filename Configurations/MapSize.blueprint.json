@@ -1,0 +1,7 @@
+{
+  "MapSizeSpec": {
+    "MaxMapSize": 1024,
+    "MaxMapEditorTerrainHeight": 64,
+    "MaxGameTerrainHeight": 70
+  }
+}
